@@ -1,6 +1,6 @@
 /* 1. Cambia el color del texto de todos los párrafos (<p>) a azul y usa la fuente "Verdana". */ 
 p { 
-    color: azul; 
+    color: blue; 
     font-family: Verdana; 
 } 
 
